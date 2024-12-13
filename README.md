@@ -1,0 +1,1 @@
+Bizning Ob'yektga yonaltirilgan dars boyicha amaliy project
